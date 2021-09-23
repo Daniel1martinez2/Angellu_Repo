@@ -23,8 +23,12 @@ body {
 
 .main-header__title {
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 16px;
   letter-spacing: 8px;
+}
+
+.main-header__ham path {
+  fill: #555555;
 }
 
 .hidden {
